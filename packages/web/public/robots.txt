@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /account
+Disallow: /checkout
+Disallow: /cart
+Disallow: /order/
+Sitemap: https://nourishandhealbysana.com/sitemap.xml
